@@ -28,6 +28,7 @@ My example:
 http://www.felixshops.top:1200/cmpxchg8b/articles
 http://www.felixshops.top:1200/google/research
 ```
+Docs: https://docs.rsshub.app/guide/
 
 ### Update
 **Automatic Update**
