@@ -1,0 +1,2 @@
+# myRSSHub
+RSSHub resources
