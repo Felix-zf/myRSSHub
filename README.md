@@ -25,8 +25,8 @@ docker-compose up -d
 Open http://{Server IP}:1200 in your browser, enjoy it! ✅
 My example:
 ```
-http://www.felixshops.top:1200/cmpxchg8b/articles
-http://www.felixshops.top:1200/google/research
+http://www.mywebsite.com:1200/cmpxchg8b/articles
+http://www.mywebsite.com:1200/google/research
 ```
 Docs: https://docs.rsshub.app/guide/
 
